@@ -14,10 +14,9 @@ This project is a pytorch implementation of [*Domain-Specific Embedding Network 
 
 3. CUDA 8.0
 
-```
 
+## Implementations
 For more backbone supports in DSEN, please check [pretrainmodels](...) and install:
-
 
 ## Datasets Prepare
 
