@@ -52,5 +52,5 @@ The examples of datasets CUB, SUN, AWA2, and aPY are already given in our reposi
 					--epoch 180 --resume ./checkpoints/fix.model
 	```
 
-The official training shell for the four datasets are soon provided!
+The official training shell for the four datasets are soon provided! \
 The reimplementation results and models are soon provided!
